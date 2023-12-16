@@ -8,5 +8,6 @@ download.py загружает содержимое каталога "входя
 
 установка зависимостей: python3 -m pip install exchangelib
 стабильно работает с Python2.7
+
 использование: python ge.py -i gal.txt -d domain.loc -u user -p Qwer -s ex.server.com
 
